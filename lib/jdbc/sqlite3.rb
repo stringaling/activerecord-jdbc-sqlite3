@@ -1,6 +1,6 @@
 module Jdbc
   module SQLite3
-    VERSION = "3.7.2.PING1"
+    VERSION = "3.7.2.PING2"
   end
 end
 if RUBY_PLATFORM =~ /java/
